@@ -154,7 +154,13 @@
       <path value="$PROJECT_DIR$/vendor/symfony/amqp-messenger" />
     </include_path>
   </component>
+<<<<<<< HEAD
   <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />
+=======
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.2">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+>>>>>>> 764e608 (Add .idea xml files)
   <component name="PhpStan">
     <PhpStan_settings>
       <phpstan_by_interpreter asDefaultInterpreter="true" interpreter_id="80f42343-7180-4d73-909a-855828a53f8d" timeout="60000" />
@@ -163,11 +169,14 @@
   <component name="PhpStanOptionsConfiguration">
     <option name="transferred" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PhpUnit">
     <phpunit_settings>
       <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/phpunit.xml.dist" custom_loader_path="$PROJECT_DIR$/vendor/autoload.php" use_configuration_file="true" />
     </phpunit_settings>
   </component>
+=======
+>>>>>>> 764e608 (Add .idea xml files)
   <component name="Psalm">
     <Psalm_settings>
       <psalm_fixer_by_interpreter asDefaultInterpreter="true" interpreter_id="80f42343-7180-4d73-909a-855828a53f8d" timeout="60000" />
